@@ -39,18 +39,27 @@ Numbers and mathematical operations
 Factors and factorials
 Problem solving and logical thinking
 Basic algorithm implementation
+
+
 🛠️ Technologies Used
+
 Language: Python 3
 IDE/Editor: Visual Studio Code
 Operating System: Ubuntu / Linux
 Version Control: Git & GitHub
+
+
 ▶️ How to Run
+
 1. Clone the repository
 git clone https://github.com/prabhanjaningle/Python_Assignments.git
+
 2. Navigate to the repository
 cd Python_Assignments
+
 3. Navigate to an assignment
 cd Assignment_1
+
 4. Run a Python program
 python3 Factor.py
 
@@ -65,11 +74,15 @@ Improve logical and problem-solving skills
 Build a strong foundation in programming
 Maintain assignments in an organized manner
 Track learning progress using Git and GitHub
+
+
 📈 Progress
+
 Assignment	Status
 Assignment 1	✅ Completed
 Assignment 2	✅ Completed
 Assignment 3	✅ Completed
+Assignment 4 Upcoming
 👨‍💻 Author
 
 Prabhanjan Ingle
