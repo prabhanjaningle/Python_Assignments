@@ -82,7 +82,8 @@ Assignment	Status
 Assignment 1	✅ Completed
 Assignment 2	✅ Completed
 Assignment 3	✅ Completed
-Assignment 4 Upcoming
+Assignment 4  ✅ Completed
+Assignment 5     Upcoming
 
 
 👨‍💻 Author
