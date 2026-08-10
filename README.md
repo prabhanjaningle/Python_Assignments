@@ -84,6 +84,7 @@ Assignment 2	✅ Completed
 Assignment 3	✅ Completed
 Assignment 4  ✅ Completed
 Assignment 5  ✅ Completed
+Assignment 6     Upcoming
 
 
 👨‍💻 Author
