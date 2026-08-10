@@ -1,0 +1,12 @@
+'''////////////////////////////////////////////////////////////////////////////////////////////
+//Author : Prabhanjan Sanjay Ingle
+//Description : Program that Accept amount in US dollar and return its corresponding value in Indian currency. 
+//Date : 09-08-2026
+////////////////////////////////////////////////////////////////////////////////////////////'''
+
+
+def dollerToInr(no1):
+    print(95.24 * no1)
+
+no1 = int(input("Enter the dollar amount : "))
+dollerToInr(no1)
