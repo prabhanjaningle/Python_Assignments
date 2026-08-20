@@ -85,8 +85,9 @@ Assignment 3	✅ Completed
 Assignment 4  ✅ Completed
 Assignment 5  ✅ Completed
 Assignment 6  ✅ Completed
-Assignment 7     Upcoming
-
+Assignment 7  ✅ Completed   
+Assignment 8  ✅ Completed
+Assignment 9     Upcoming
 👨‍💻 Author
 
 Prabhanjan Ingle
