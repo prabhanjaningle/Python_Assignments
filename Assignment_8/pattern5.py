@@ -1,0 +1,14 @@
+'''///////////////////////////////////////////////////////////////////////////////////////////
+//Author : Prabhanjan Sanjay Ingle
+//Description : Print the Pattern from given input numbers
+// 5
+//2 4 6 8 10
+//Date : 03-06-2025
+////////////////////////////////////////////////////////////////////////////////////////////'''
+
+def pattern(iNum):
+    for i in range(1 , iNum+1):
+        print(2 * i , end = " ")
+
+iNo = int(input("Enter the number :- "))
+pattern(iNo)
